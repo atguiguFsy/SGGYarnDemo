@@ -33,4 +33,15 @@ class Fibonacci{
         }
         System.out.println(sum);
     }
+
+
+    public void GitTest1(){
+
+        System.out.println("he!");
+        System.out.println("he!");
+        System.out.println("he!");
+        System.out.println("he!");
+        System.out.println("master commit1");
+        System.out.println("master commit1");
+    }
 }
